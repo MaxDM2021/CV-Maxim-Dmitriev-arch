@@ -126,6 +126,9 @@ body {
   color: #fb6d3a;
   margin-bottom: 0;
 }
+
+
+
 .my-work-experience-position {
   font-style: normal;
   font-weight: bold;
@@ -142,6 +145,17 @@ body {
   color: #a8a8a8;
   margin: 0 0 0px 0;
 }
+
+
+.my-work-experience-period-first {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 15px 0;
+}
+
 
 h5{
   margin: 0;
@@ -215,7 +229,7 @@ h5{
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #575f6b;
+  color: #fb6d3a;
 }
 
 /* Tech skills section*/
